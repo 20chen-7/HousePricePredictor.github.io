@@ -114,9 +114,6 @@ import Multiselect from 'vue-multiselect'
 import VueDatePicker from '@vuepic/vue-datepicker';
 import '@vuepic/vue-datepicker/dist/main.css';
 
-
-// import { ref } from 'vue';
-
 export default {
   name: 'CodingChallenge',
   props: {},
